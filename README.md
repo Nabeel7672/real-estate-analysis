@@ -1,4 +1,4 @@
-Real Estate Data Analysis – Key Insights
+##Real Estate Data Analysis – Key Insights
 
 This project analyzes real estate listings to uncover pricing trends, neighborhood insights, and factors affecting house prices. It combines data cleaning, descriptive statistics, interactive dashboards, and regression analysis for actionable insights.
 
