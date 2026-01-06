@@ -79,6 +79,4 @@ Buttons added across all analysis tabs (except Raw Data) for **easy navigation**
 ---
 
 ## 📚 References
- Dataset sourced from Kaggle: https://www.kaggle.com/datasets/reenapinto/housing-price-and-real-estate-2023?resource=download
-
 - Dataset sourced from Kaggle: [Housing Price and Real Estate 2023](https://www.kaggle.com/datasets/reenapinto/housing-price-and-real-estate-2023?resource=download)
